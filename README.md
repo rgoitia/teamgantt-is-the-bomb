@@ -1,7 +1,7 @@
 # teamgantt-is-the-bomb
 Create a repository
 
-Helo World:
+Hello World:
 
 I am learning ¯\_(ツ)_/¯
 
